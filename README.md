@@ -59,7 +59,6 @@ Execute o projeto
 
 🚀 Uso
 
-Inclua exemplos ou comandos de uso básico do projeto. Adicione imagens, GIFs ou capturas de tela, se possível.
 ![image](https://github.com/user-attachments/assets/4171803a-7557-46c9-9d4f-dbe670d1405f)
 ![image](https://github.com/user-attachments/assets/3fc2d736-1c56-443d-a5bf-c3c4e3347b28)
 ![image](https://github.com/user-attachments/assets/52a120ea-1462-44f2-8dc3-1ad83cb53982)
