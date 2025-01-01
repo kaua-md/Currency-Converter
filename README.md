@@ -41,22 +41,21 @@ Maven para gerenciar as dependências
 Passo a passo para instalar e configurar o projeto localmente:
 
 Clone o repositório:
-bash
+
 Copiar código
 git clone https://github.com/kaua-md/Currency-Converter
+
 Acesse o diretório:
-bash
-Copiar código
 cd Currency-Converter
+
 Instale as dependências:
-bash
 <dependency>
     <groupId>com.google.code.gson</groupId>
     <artifactId>gson</artifactId>
     <version>2.11.0</version>
 </dependency>
+
 Execute o projeto
-bash
 
 🚀 Uso
 
