@@ -1,4 +1,5 @@
 🚀 Conversor de Moedas
+
 Este projeto utiliza a API do v6.exchangerate-api para acessar taxas de câmbio em tempo real, permitindo conversões entre diversas moedas globais de forma prática e rápida.
 Tambem foi utilizado o Maven para gerenciar a dependência da biblioteca Gson, uma ferramenta eficiente para a conversão entre objetos Java e JSON.
 Através do Maven, a integração do Gson no projeto foi simplificada, sem a necessidade de baixar manualmente o arquivo JAR. Bastando apenas adicionar a dependência no arquivo pom.xml e o Maven gerencia automaticamente o download e a versão da biblioteca.
