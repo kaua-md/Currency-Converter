@@ -21,6 +21,7 @@ Uso
 Contato
 
 📖 Sobre o Projeto
+
 Projeto proposto pela Alura, para fins de se aplicar o conhecimento obtido nos cursos anteriores de orientação a objetos e consumo de uma API da internet.
 
 🌟 Funcionalidades
