@@ -67,4 +67,4 @@ Execute o projeto
 
 Nome: Kauã Machado
 E-mail: kauasilva940@gmail.com
-LinkedIn: [seu-perfil-linkedin](https://www.linkedin.com/in/kau%C3%A3-machado/)
+LinkedIn: [linkedin](https://www.linkedin.com/in/kau%C3%A3-machado/)
